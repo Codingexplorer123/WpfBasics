@@ -1,0 +1,13 @@
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\bin\Debug\Telefonrehberi.exe.config
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\bin\Debug\Telefonrehberi.exe
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\bin\Debug\Telefonrehberi.pdb
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\obj\Debug\Telefonrehberi.csproj.AssemblyReference.cache
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\obj\Debug\Telefonrehberi.csproj.SuggestedBindingRedirects.cache
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\obj\Debug\Telefonrehberi.Form1.resources
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\obj\Debug\Telefonrehberi.Properties.Resources.resources
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\obj\Debug\Telefonrehberi.csproj.GenerateResource.cache
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\obj\Debug\Telefonrehberi.csproj.CoreCompileInputs.cache
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\obj\Debug\Telefonrehberi.exe
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\obj\Debug\Telefonrehberi.pdb
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\obj\Debug\Telefonrehberi.ListeKayit.resources
+C:\C#projeler\wpf3telefonrehberi\Telefonrehberi\obj\Debug\Telefonrehberi.Liste.resources
